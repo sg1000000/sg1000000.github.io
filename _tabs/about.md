@@ -4,5 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+### Songgen80
+
+工作生活在美丽的海滨城市 **厦门**，喜欢新事物，爱折腾的人，工作认真严谨。热爱学习、热爱分享。
+
+以下是我的公众号，欢迎扫码关注，了解更多。
+
+![松研松语](F:\04 read-book\sg1000000.github.io\_posts\_png\songgen80.jpg)
