@@ -1,9 +1,9 @@
 ---
 title: Git 学习笔记
 author: songgen80
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [学习笔记]
+date: 2022-1-1 20:55:00 +0800
+categories: [学习笔记]
+tags: [编程，笔记]
 pin: true
 ---
 
