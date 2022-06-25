@@ -10,4 +10,4 @@ order: 4
 
 以下是我的公众号，欢迎扫码关注，了解更多。
 
-![松研松语](F:\04 read-book\sg1000000.github.io\_posts\_png\songgen80.jpg)
+![松研松语](https:\\sg1000000.github.io\_img\songgen80.png)
