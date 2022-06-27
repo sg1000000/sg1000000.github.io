@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: 'https://s2.loli.net/2022/06/27/XxWsfHK9b1SVt2d.jpg'    #'/commons/avatar.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -199,3 +199,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+mermaid: true   #图表生成工具
+
+math: true   #数学公式
