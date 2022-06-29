@@ -2,8 +2,8 @@
 title: 世界各国主要的卫浴认证
 author: songgen80
 date: 2022-6-27 17:20:00 +0800
-categories: [学习笔记]
-tags: [认证，卫浴]
+categories: [工作笔记]
+tags: [认证,卫浴]
 pin: true
 ---
 

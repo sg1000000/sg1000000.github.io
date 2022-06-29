@@ -2,8 +2,8 @@
 title: 第一次启动jupyter lab
 author: Songgen80
 date: 2022-6-28 9:55:00 +0800
-categories: [学习笔记]
-tags: [jupyterlab]
+categories: [编程学习]
+tags: [jupyterlab,编程,笔记]
 pin: true
 ---
 

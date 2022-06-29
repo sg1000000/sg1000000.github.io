@@ -2,8 +2,8 @@
 title: 常用塑胶材料产品应力检测方法
 author: songgen80
 date: 2022-6-27 18:15:00 +0800
-categories: [学习笔记]
-tags: [应力，卫浴]
+categories: [工作笔记]
+tags: [应力,卫浴]
 pin: true
 ---
 

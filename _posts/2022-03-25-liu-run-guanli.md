@@ -3,7 +3,7 @@ title: 5分钟商学院管理篇
 author: songgen80
 date: 2022-3-25 20:55:00 +0800
 categories: [读书笔记]
-tags: [管理, 刘润]
+tags: [管理,刘润]
 pin: true
 ---
 
