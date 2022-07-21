@@ -1,5 +1,5 @@
 ---
-title: IEC529 标准-防水保护 IPX
+title: IEC529标准-防水保护IPX
 author: songgen80
 date: 2022-7-22 8:29:00 +0800
 categories: [工作笔记]
@@ -9,7 +9,7 @@ pin: true
 
 ### IEC 529 标准-防水保护 IPX
 
-IEC「International Electrotechnical Commission」是国际电工技术委员会、国际电工标准机构。
+IEC「*International Electrotechnical Commission*」是国际电工技术委员会、国际电工标准机构。
 
 电子测量仪器的防水级别同时也反映了仪器防潮和防尘的能力，特别是对于户外活动中，免不了处于高湿或多尘沙的恶劣环境中，仪器的密封和防水能力对于保证仪器的安全运转和寿命就至关重要。
 
