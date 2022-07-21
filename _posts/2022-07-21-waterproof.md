@@ -1,7 +1,7 @@
 ---
 title: IEC529标准-防水保护IPX
 author: songgen80
-date: 2022-7-22 8:29:00 +0800
+date: 2022-07-21 8:29:00 +0800
 categories: [工作笔记]
 tags: [标准]
 pin: true
