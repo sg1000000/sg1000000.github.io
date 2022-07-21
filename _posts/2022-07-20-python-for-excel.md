@@ -1,5 +1,5 @@
 ---
-title: 如何运行py文件
+title: 如何运行 .py 文件
 author: Songgen80
 date: 2022-7-20 9:55:00 +0800
 categories: [编程学习]
@@ -7,7 +7,7 @@ tags: [jupyterlab,编程,笔记,python]
 pin: true
 ---
 
-### 如何运行py文件
+### 如何运行 .py 文件
 
 打开 Jupyter lab 的目录（就是你保存 `ipynb` 文件的地方，以便在 Jupyter lab 中打开、浏览、编辑 `ipynb` 文件），运行 cmd 命令，运行以下命令，就可以打开 jupyter lab。
 
@@ -20,6 +20,8 @@ jupyter lab
 ```bash
 %run 拆分excel文件.py
 ```
+**拆分excel文件.py** 为要执行的python文件。
+
 此时的 cmd 窗口不能关闭，否则 Jupyter lab 就停止运行了 —— 就将它放在那里。
 
 随后会有个浏览器打开，指向 [http://localhost:8888/lab?](http://localhost:8888/lab?) —— 你就看到 Jupyter lab 的操作界面了。
