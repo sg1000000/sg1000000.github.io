@@ -62,7 +62,7 @@ IEC「*International Electrotechnical Commission*」是国际电工技术委员�
 
 ### IPXX 等级中关于防水实验的规定。  
 
-#### 1、IPX 1 
+#### 1. IPX 1 
 
 **方法名称：**垂直滴水试验
 
@@ -74,7 +74,7 @@ IEC「*International Electrotechnical Commission*」是国际电工技术委员�
 
 **持续时间：**10 min    
 
-#### 2、IPX 2   
+#### 2. IPX 2   
 
 **方法名称：**倾斜 15° 滴水试验
 
@@ -86,7 +86,7 @@ IEC「*International Electrotechnical Commission*」是国际电工技术委员�
 
 **持续时间：** 4×2.5 min「 共10 min 」  
 
-#### 3、IPX 3  
+#### 3. IPX 3  
 
 **方法名称：**淋水试验
 
@@ -112,7 +112,7 @@ IEC「*International Electrotechnical Commission*」是国际电工技术委员�
 
 **试验时间：**按被检样品外壳表面积计算，每平方米为 1 min 「不包括安装面积」，最少 5 min 
 
-#### 4.IPX 4
+#### 4. IPX 4
 
 **方法名称：**溅水试验
 
@@ -134,7 +134,7 @@ IEC「*International Electrotechnical Commission*」是国际电工技术委员�
 
 **试验时间：**与上述 IPX 3 之 b 款均相同， 即按被检样品外壳表面积计算，每平方米为1 min「不包括安装面积」最少 5min
 
-#### 5.IPX 5
+#### 5. IPX 5
 
 **方法名称：**喷水试验
 
@@ -144,7 +144,7 @@ IEC「*International Electrotechnical Commission*」是国际电工技术委员�
 
 **试验时间：**按被检样品外壳表面积计算，每平方米为 1 min 「不包括安装面积」最少 3 min   
 
-#### 6.IPX 6 
+#### 6. IPX 6 
 
 **方法名称：**强烈喷水试验
 
