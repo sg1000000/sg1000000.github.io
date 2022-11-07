@@ -92,32 +92,35 @@ pin: true
 
 #### 3.3 一些常用的超声波焊接导熔线设计
 
-对于无定形塑料熔接线角度建议 90°
-
-<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\无定形塑料导熔线.jpg" style="zoom:50%;" />
-
-而半结晶塑料熔接线角度建议 60°
-
-<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\半结晶塑料导熔线.jpg" style="zoom:50%;" />
-
-
 ##### 3.3.1 基本型
 
 主要是在需要焊接的工件平面上设计一条连贯的导熔线，如下图所示：
 
 <img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\3.1.1 熔接线尺寸.jpg" style="zoom:80%;" />
 
+对于无定形塑料熔接线角度建议 90°
 
+<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\无定形塑料导熔线.jpg" style="zoom:50%;" />
+
+而半结晶塑料熔接线角度建议 60°
+
+<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\半结晶塑料导熔线.jpg" style="zoom: 67%;" />
 
 ##### 3.3.2 阶梯型
 
 优点 - 可以有效避免溢胶，但对要求塑料件有一定的壁厚，比如 ≥2mm。
 
-<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\阶梯型导熔线.jpg" style="zoom: 33%;" />
+<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\阶梯型导熔线.jpg" style="zoom: 67%;" />
 
 ##### 3.3.3 沟槽型
 
 焊接时能提供自定位，增加非焊接面的距离可以有效避免溢胶。
+
+一般要求壁 厚≥3mm。
+
+具体参考尺寸如下图所示：
+
+<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\沟槽式焊接示意图.jpg" style="zoom:80%;" />
 
 ##### 3.3.4 剪切型
 
@@ -126,6 +129,10 @@ pin: true
 剪切型焊接的强度取决于融合区域的焊接深度，通常要求焊接深度为壁厚的 1.25 倍。
 
 对于半结晶塑料，建议使用剪切型熔接线。
+
+其结构示意如下图所示：
+
+<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\剪切型焊接结构.jpg" style="zoom:67%;" />
 
 其干涩量如下表所示：
 
@@ -145,7 +152,9 @@ pin: true
 
 我们在设计的时候应当避免零件优先接触到密封，如果先接触到密封圈容易导致焊接不牢固。
 
+如下图所示，焊接时上盖会优先碰到橡胶圈后再碰到熔接线，应避免此类设计。
 
+<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\不合格熔接线-1.png" style="zoom:50%;" />
 
 #### 3.4 一些需要避免的设计
 
@@ -171,17 +180,27 @@ pin: true
 
 焊接头与焊接零件接触区域投影应能覆盖到熔接线的全部区域，要避免熔接线区域与焊接头的垂直投影间有缝隙。
 
+不良如下图所示：
+
+<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\不合理的设计2.jpg" style="zoom:50%;" />
+
 ##### 3.4.5 避免熔接线不在同一个水平面上
 
-尽量避免熔接线分布到台阶平面上，理论上也可以焊接，但是也容易出现上下焊接不均匀的情况。
+尽量避免熔接线分布到台阶平面上「如下图所示」，理论上也可以焊接，但是也容易出现上下焊接不均匀的情况。
 
 这是由于超声波传导距离越长能量损失越大，特别对于半结晶塑料，尽量避免此类问题。
+
+<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\熔接线不在同一平面.jpg" style="zoom:50%;" />
+
+
 
 ##### 3.4.6 避免超声波传导零件有孔特征或者缺口
 
 与焊接头接触的塑料件主要用于超声波的传导，如果这个塑料件有一些缺口或者是侧边孔洞，超声波在传导的过程中就会产生衰减。
 
 特别对于半结晶材料，非常容易导致对应的位置出现焊接不到位的情况，尽量避免这种结构，或者必要时将这种孔设计到焊接的另一个零件上。
+
+<img src="F:\04 read-book\sg1000000.github.io\_img\_ultrasonic_welding\不好的设计.jpg" style="zoom:50%;" />
 
 ##### 3.4.7 避免悬臂梁结构
 
